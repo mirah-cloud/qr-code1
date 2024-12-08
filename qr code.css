@@ -1,0 +1,13 @@
+div center {
+    margin: 250px;
+    border-style: solid;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    border-color: white;
+    border-radius: 20px;
+    border-width:20px;
+    border-bottom-width: 40px;;
+}
